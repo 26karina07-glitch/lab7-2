@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fleet_logistics_system"
+version = "1.0.0"
+authors = [
+    { name = "Каріна", email = "student@vntu.edu.ua" }
+]
+description = "Консольний застосунок для логістики та управління автопарком підприємства"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
